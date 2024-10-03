@@ -10,7 +10,7 @@ const students_f1_a = [
     dormitoryPrice: null,
     dormitoryFloor: 0,
     dormitoryRoom: 5,
-    club: 'Röplabda Klub'
+    club: 'Sakk Klub'
   },
   {
     firstName: 'Bence',
@@ -22,7 +22,7 @@ const students_f1_a = [
     dormitoryPrice: null,
     dormitoryFloor: 0,
     dormitoryRoom: 41,
-    club: 'Filmkészítő Klub'
+    club: 'Kosárlabda Csapat'
   },
   {
     firstName: 'Lili',
@@ -34,7 +34,7 @@ const students_f1_a = [
     dormitoryPrice: 46000,
     dormitoryFloor: 0,
     dormitoryRoom: 17,
-    club: 'Rajzkör'
+    club: 'Sakk Klub'
   },
   {
     firstName: 'Miklós',
@@ -96,7 +96,7 @@ const students_f1_b = [
       dormitoryPrice: 45000,
       dormitoryFloor: 1,
       dormitoryRoom: 12,
-      club: 'Színjátszó Kör'
+      club: 'Táncklub'
     },
     {
       firstName: 'Dóra',
@@ -108,7 +108,7 @@ const students_f1_b = [
       dormitoryPrice: 48000,
       dormitoryFloor: 1,
       dormitoryRoom: 7,
-      club: 'Kézműves Kör'
+      club: 'Sakk Klub'
     },
     {
       firstName: 'Gergő',
@@ -120,7 +120,7 @@ const students_f1_b = [
       dormitoryPrice: null,
       dormitoryFloor: 1,
       dormitoryRoom: 45,
-      club: 'Futball Klub'
+      club: 'Kosárlabda Csapat'
     },
     {
       firstName: 'Eszter',
@@ -144,7 +144,7 @@ const students_f1_b = [
       dormitoryPrice: null,
       dormitoryFloor: 1,
       dormitoryRoom: 9,
-      club: 'Kertész Klub'
+      club: 'Kosárlabda Csapat'
     },
     {
       firstName: 'Erik',
@@ -156,7 +156,7 @@ const students_f1_b = [
       dormitoryPrice: null,
       dormitoryFloor: 1,
       dormitoryRoom: 44,
-      club: 'Matek Kör'
+      club: 'Táncklub'
     },
     {
       firstName: 'Judit',
@@ -168,7 +168,7 @@ const students_f1_b = [
       dormitoryPrice: 48000,
       dormitoryFloor: 1,
       dormitoryRoom: 14,
-      club: 'Filmklub'
+      club: 'Táncklub'
     }
   ]
 const students_f1_c = [
